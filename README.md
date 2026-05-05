@@ -6,7 +6,7 @@
  - [Role Assignments](https://github.com/TorreIAM/role-assignments-repository)
  - [Group Assignments](https://github.com/TorreIAM/group-assign)
  - [Identity Lifecycle](https://github.com/TorreIAM/identity-lifecycle)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/TorreIAM/audit-logs)
  - [Sign-In Logs]()
  - [Authentication]()
 
