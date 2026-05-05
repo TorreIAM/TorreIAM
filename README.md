@@ -5,7 +5,7 @@
  - [Cloud Provisioning - P2 Licensing](https://github.com/TorreIAM/p2-licensing)
  - [Role Assignments](https://github.com/TorreIAM/role-assignments-repository)
  - [Group Assignments](https://github.com/TorreIAM/group-assign)
- - [Identity Lifecycle]()
+ - [Identity Lifecycle](https://github.com/TorreIAM/identity-lifecycle)
  - [Audit Logs]()
  - [Sign-In Logs]()
  - [Authentication]()
